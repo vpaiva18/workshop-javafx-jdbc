@@ -36,10 +36,10 @@ public class DepartmentFormController implements Initializable {
 
 	@FXML
 	private TextField txtName;
-
+	
 	@FXML
 	private Label labelErrorName;
-
+	
 	@FXML
 	private Button btSave;
 
